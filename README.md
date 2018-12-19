@@ -1,5 +1,7 @@
 # h5-open-app-test
 
+ 仅用作测试，请不要clone
+
 ## Project setup
 ```
 npm install
