@@ -1,6 +1,7 @@
 # h5-open-app-test
 
- 仅用作测试，请不要clone
+ 仅用作测试，请不要fork
+ 使用了 callapp-lib ，并进行少量修改
 
 ## Project setup
 ```
